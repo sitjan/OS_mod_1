@@ -1,2 +1,11 @@
 # OS_mod_1
-Test project for OS mod
+
+Preliminary model for a prototype University Management System (UMS) based on React, React-native, Node, MongoDB.
+
+**
+Features include:
+Enrollment
+Attendance Monitoring 
+Dedicated Student performance assesment
+
+**
